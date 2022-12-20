@@ -1,0 +1,80 @@
+[
+  {
+    "left": 21.635294117647057,
+    "top": 49.8,
+    "circle": 20,
+    "id": 6,
+    "data": {
+      "img": "/img/product.jpg",
+      "status": false,
+      "article": "L7T",
+      "title": "адрад",
+      "price": "545"
+    }
+  },
+  {
+    "left": 30.16470588235294,
+    "top": 51,
+    "circle": 20,
+    "id": 8,
+    "data": {
+      "img": "/img/product.jpg",
+      "status": true,
+      "article": "L7T",
+      "title": "asdaswqe",
+      "price": "0"
+    }
+  },
+  {
+    "left": 65.60588235294118,
+    "top": 47.6,
+    "circle": 20,
+    "id": 9,
+    "data": {
+      "img": "/img/product.jpg",
+      "status": true,
+      "article": "L7T",
+      "title": "Asdasd",
+      "price": "0"
+    }
+  },
+  {
+    "left": 46.194117647058825,
+    "top": 77.80000000000001,
+    "circle": 20,
+    "id": 10,
+    "data": {
+      "img": "/img/product.jpg",
+      "status": true,
+      "article": "L7T",
+      "title": "asdqwe",
+      "price": "0"
+    }
+  },
+  {
+    "left": 68.54705882352941,
+    "top": 65.80000000000001,
+    "circle": 20,
+    "id": 11,
+    "data": {
+      "img": "/img/product.jpg",
+      "status": true,
+      "article": "L7T",
+      "title": "asdwqe",
+      "price": "0"
+    }
+  },
+  {
+    "left": 71.92941176470589,
+    "top": 72.60000000000001,
+    "circle": 20,
+    "id": 12,
+    "data": {
+      "img": "/img/product.jpg",
+      "status": true,
+      "article": "L7T",
+      "title": "asdqere",
+      "price": "0"
+    }
+  }
+]
