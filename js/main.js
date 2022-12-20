@@ -1,4 +1,4 @@
-import { Coords, drawProduct, drawTable, circleHover } from "./Classes.js";
+import { Coords, drawTable, circleHover } from "./Classes.js";
 
 const pageDetailImageBlock = document.querySelector(".page-detail-image");
 const pageDetailImage = pageDetailImageBlock.querySelector("img");
